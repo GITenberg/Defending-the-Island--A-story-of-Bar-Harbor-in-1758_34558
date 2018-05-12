@@ -1,0 +1,28 @@
+_repo: Defending-the-Island--A-story-of-Bar-Harbor-in-1758_34558
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34558-h/images/dti-cover.jpg
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2010-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mount Desert Island (Me.) -- History -- Colonial period, ca. 1600-1775 --
+  Juvenile fiction'
+- !lcc 'PZ'
+title: 'Defending the Island: A story of Bar Harbor in 1758'
+url: http://www.gutenberg.org/ebooks/34558
